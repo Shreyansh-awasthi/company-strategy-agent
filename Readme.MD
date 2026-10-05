@@ -70,3 +70,4 @@ Once initialized, navigate directly to **`http://localhost:8504`** inside a web 
 * **Streamlined UI Polish:** Outfitted with an high-fidelity gradient button accents, clean card borders, and distinct metric titles built for effortless navigation.
 * **Auto-Reformatting List Layouts:** Integrates a regex processing layer that converts unstructured numerical text summaries natively into beautifully indented HTML bullet matrices.
 * **Data Moat Backup:** Automatically serializes every successful scan terminal state into an independent, timestamped `.json` tracking file directly onto local system memory storage.
+APP LINK - ["https://company-strategy-agent-jveockhdi4gnuwb9mmbdeb.streamlit.app/"]
